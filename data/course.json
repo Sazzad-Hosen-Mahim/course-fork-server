@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Basic Web Development with Python",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.educative.io/v2api/editorpage/5984239968321536/image/5203686436372480",
+    "details": "In Python web application development, Python is mostly used for building the backend. Python frameworks take care of dealing with tasks that are related to backend application development, such as parsing HTTP requests, generating HTTP responses, accessing the database, authentication, authorization, etc. These tasks are so common that they are implemented in various backends. There are multiple Python Web Development Frameworks for backend development, ranging from small, focused, and micro frameworks to big and batteries-included frameworks. Let us now take a look at some of the most popular Python web frameworks."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab7b",
+    "category_id": "01",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 478,
+    "title": "Full stack Web Development MERN",
+    "author": {
+      "name": "Casey Fortuna",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+    "details": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MongoDB — document database, Express(.js) — Node.js web framework, React(.js) — a client-side JavaScript framework, Node(.js) — the premier JavaScript web server. Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform. Regardless of which variant you choose, ME(RVA)N is the ideal approach to working with JavaScript and JSON, all the way through."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab8c",
+    "category_id": "01",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "100 days of code - Bootcamp wev development",
+    "author": {
+      "name": "Hensley Sabitzer",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgSFyP4kmOD1GiO5lmkqc2sUVXwoClNWJWeA&usqp=CAU",
+    "details": "This is a full web development bootcamp. In this bootcamp, you'll learn all the necessary things to be a full stack web developer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab9d",
+    "category_id": "02",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Graphics design masterclass",
+    "author": {
+      "name": "Ashrafuzzaman Vuiyah",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg?w=2000",
+    "details": "This is graphics design course for beginner who wants to explore the graphics design technology."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab0e",
+    "category_id": "02",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Graphics Design Bootcamp",
+    "author": {
+      "name": "Kiley Watson",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HqEPv3K54CgPmRso4N3pH8.jpg",
+    "details": "This is a full graphics design bootcamp. In this bootcamp, you'll learn all the necessary things to be a graphics designer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab1f",
+    "category_id": "03",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Master your brain - Neuroscience",
+    "author": {
+      "name": "Elly Skyler",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.guim.co.uk/img/media/85d7982e93c39d2e177e2340a3e3816ccc38a8eb/0_59_4801_2881/master/4801.jpg?width=1200&quality=85&auto=format&fit=max&s=88f209c706468535d687412f58678735",
+    "details": "Master your brain with knowing neuroscience. Explore, go, dream."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab2g",
+    "category_id": "03",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "The complete personal development",
+    "author": {
+      "name": "Rossy Johanson",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.oneeducation.org.uk/wp-content/uploads/2021/04/Personal-Development-Plan-A-Complete-Guide-with-PDP-Template-updated-1.png",
+    "details": "Here is your complete personal development solution. If you are demotivated, distracted and living in uncertainity this course could help you get through the complications and get over it."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab3h",
+    "category_id": "03",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Self Motivation",
+    "author": {
+      "name": "Hector Bellerin",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://media.istockphoto.com/id/506910700/photo/i-can-do-it.jpg?s=612x612&w=0&k=20&c=4r5UQKSwjtVyLai0R0B38RJXX2SFr0TpK4JFSWnVCfQ=",
+    "details": "Self motivation is much needed when in a certain stage of your life you are frustrated and demotivated by the surroundings. This course will help you out from the complications of your life and live happily."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab4i",
+    "category_id": "04",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Complete Business Plan Course",
+    "author": {
+      "name": "Mertha Augustus",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://thumbs.dreamstime.com/b/business-plan-chalk-board-35362405.jpg",
+    "details": "This course help you proper planning your running business."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab5j",
+    "category_id": "04",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Business Architecture",
+    "author": {
+      "name": "Jesse Pinkman",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://imageio.forbes.com/blogs-images/alejandrocremades/files/2018/12/business-3605367_1920-1200x741.jpg?format=jpg&width=960",
+    "details": "Business Architecture course help your to found a business with strong foundation underlying it."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6k",
+    "category_id": "04",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Business Intelligent Analyst",
+    "author": {
+      "name": "Henry Nicholson",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://cdn.technologyadvice.com/wp-content/uploads/2021/09/What-is-Business-Intelligence-BI-scaled.jpeg",
+    "details": "Business Intelligent Analyst course can help your business to grow fast and in an efficient way."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab7l",
+    "category_id": "04",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "total_view": 778,
+    "title": "Financial And Managerial Accounting",
+    "author": {
+      "name": "Dmitri Khubirghov",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://marketbusinessnews.com/wp-content/uploads/2020/05/Finance-in-business-image-434333.jpg",
+    "details": "Financial and managerial accounting knowledge in your hand."
+  }
+]
